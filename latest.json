@@ -1,9 +1,9 @@
 {
-  "version": "1.0.31",
+  "version": "1.0.32",
   "date": "2026-11-01",
-  "zip": "releases/appapi-wp-1.0.31.zip",
-  "sha256": "db5959bc7b03b1919dca23d7b7181f453fac67e34906d789abad6e6307570af0",
-  "signature": "OKiRT7YkiSCk8I/SjqksVle72Q7T3yo37JLzMznZxrzERIs/+a+0lWt3Hr/k87n71glaG835KIkhTnwERVTV7DBrgf4+cW5FYobf2yJenQz6xaiLpfA+yiQaMyOeMSzwKd+Jeb7VrcoA2cRj0TrZmCXbjko3ZRnaQHPaOSgIjWNPoMA2ndSIXwDmeUYR1Bs7zAsmKkzg8VIb6LPaVGaF7zshFr54jwEk3oM5xrqmWF6/0KMlwv6LGA64xUQR6GAaxfdCeQDwfzepOi/u+4sW+1G+VFD5DkJ0xeEkxqRhHNBb57eJH4khDhC7Cjgrogw4nS2LF+ZiPLcV3dMq3f46tGHBYO4wCRpaKgjfo0Hg5YeEmh28nBi4FGb4Dt6BRfegv4jKs0dbUsNooonmeMCTWhY3+BZ9QvZYdZV30jKxGvPRpFY1PBZ50A+mUp4DYlnsXAAbnzzYlwnm+g9I0mFndKladGapL5CAcLR8KOnagYYhWuRsFqW/+PrxvzxKuMsF",
+  "zip": "releases/appapi-wp-1.0.32.zip",
+  "sha256": "eb9ab3a7828cdd2435bdc982f50f32ef31f85dbeca4d8409ea2fde5dcb42af47",
+  "signature": "ESTX8ULX66iG07w+0RImECPYLaMvHY+Q0NKXD+pujLBu3HqDDwzCZQveKlfFi7V9eyFHGv9lOFa/kLLUeuNHeLKKgUsJ+RE0WJyYQp2wlCFPlzNhRjV1jL/85cGKHmnjDHPU+4a0mDcktkmgBH4U199hH8gySpzcJ0bDMSzt+dI4cTX7DCudnX/NbQh+9/2iWdtdVPbzCGb1gLkaVJMUdGWjMEpN7ZsxofhdeGGOjNDHqXFJdoFUzYx00TslMO7WbMTsxFehBBSDjQi4z1kJwuhYwWPvupkPQEZOhX1aVzPD+huB86DO2VOJdfg7yMRb6UE+fdAQdEN0z6UvYeR2vHbALIDOFE5kmSO+SaSlLGp+miZfzdtOT44yjR6tzpkuyNP3bNPfhuGkBpmf8jLQy4QuQA1XQ6RJvyNjbuiHYmhId6P5Lt+LbAQu3Oqo33kLL7sAZKAKLwQJI83XUXVorT7NxOTBdg1nd/XNYjH04UUoAEG35R60uGXOKXGEADs4",
   "min_php": "7.4",
-  "notes": "공개 저장소를 회사 조직(github.com/easyapplabs)으로 옮겼습니다"
+  "notes": "번호만 올림(XE·Rhymix 모듈과 같은 번호)"
 }
