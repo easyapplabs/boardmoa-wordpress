@@ -1,9 +1,9 @@
 {
-  "version": "1.0.30",
-  "date": "2026-10-31",
-  "zip": "releases/appapi-wp-1.0.30.zip",
-  "sha256": "f2e33e397cb00486f27e58214cd139184e3924d26fb5ebf41ecac93d46d51d70",
-  "signature": "XaDY8/CNHGjxCt8PLDZHgZiro/ZHpdHTF8jC1wclkn0dKoDW5z13GfKbGJg5gh3n9/XMvZD2kc3g/4s4fTBS99/HwO2MJSAkxBGE+QfUjIIM6KEwbe+y0Mc1b7AoI+NfiYBwLgCpqW0uT9/1A34idgJ0M1wtmhEl1ItXoMfyz6yp/qr+phSPN6dTLYaDChKVqIO2qcxn8xuKh7Lj4hMiSFwY3hULs4kHfKbmMF562sfoxL89kKrGmQyf5Ymh/gpXDpXnMRxz/yeFehOFKURroMcwOXv2wlRIaXQ7WcHu30APJTZvDqxHd/jHJnD3l2MIZstSMV7OhKJd481t7SFkb+VpAYRQJIZhLgiEeQMtg63O3QO5DvCKV4hJjgCe35rImOrdFkbdATGpOgDAlhgOwGV9u94ssH94IhOQE74lL6Qyqa0CJp7q2O5NJMyGTuVs8rjeDow27t0ZX3C+t16hLjhrbsBhNVwR0BJCAA8DHrFVvd3w0sugRqzY1UazEAQz",
+  "version": "1.0.31",
+  "date": "2026-11-01",
+  "zip": "releases/appapi-wp-1.0.31.zip",
+  "sha256": "db5959bc7b03b1919dca23d7b7181f453fac67e34906d789abad6e6307570af0",
+  "signature": "OKiRT7YkiSCk8I/SjqksVle72Q7T3yo37JLzMznZxrzERIs/+a+0lWt3Hr/k87n71glaG835KIkhTnwERVTV7DBrgf4+cW5FYobf2yJenQz6xaiLpfA+yiQaMyOeMSzwKd+Jeb7VrcoA2cRj0TrZmCXbjko3ZRnaQHPaOSgIjWNPoMA2ndSIXwDmeUYR1Bs7zAsmKkzg8VIb6LPaVGaF7zshFr54jwEk3oM5xrqmWF6/0KMlwv6LGA64xUQR6GAaxfdCeQDwfzepOi/u+4sW+1G+VFD5DkJ0xeEkxqRhHNBb57eJH4khDhC7Cjgrogw4nS2LF+ZiPLcV3dMq3f46tGHBYO4wCRpaKgjfo0Hg5YeEmh28nBi4FGb4Dt6BRfegv4jKs0dbUsNooonmeMCTWhY3+BZ9QvZYdZV30jKxGvPRpFY1PBZ50A+mUp4DYlnsXAAbnzzYlwnm+g9I0mFndKladGapL5CAcLR8KOnagYYhWuRsFqW/+PrxvzxKuMsF",
   "min_php": "7.4",
-  "notes": "플러그인 관리 화면 아이콘(XE3·그누보드7)"
+  "notes": "공개 저장소를 회사 조직(github.com/easyapplabs)으로 옮겼습니다"
 }
