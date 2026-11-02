@@ -1,9 +1,9 @@
 {
-  "version": "1.0.32",
-  "date": "2026-11-01",
-  "zip": "releases/appapi-wp-1.0.32.zip",
-  "sha256": "eb9ab3a7828cdd2435bdc982f50f32ef31f85dbeca4d8409ea2fde5dcb42af47",
-  "signature": "ESTX8ULX66iG07w+0RImECPYLaMvHY+Q0NKXD+pujLBu3HqDDwzCZQveKlfFi7V9eyFHGv9lOFa/kLLUeuNHeLKKgUsJ+RE0WJyYQp2wlCFPlzNhRjV1jL/85cGKHmnjDHPU+4a0mDcktkmgBH4U199hH8gySpzcJ0bDMSzt+dI4cTX7DCudnX/NbQh+9/2iWdtdVPbzCGb1gLkaVJMUdGWjMEpN7ZsxofhdeGGOjNDHqXFJdoFUzYx00TslMO7WbMTsxFehBBSDjQi4z1kJwuhYwWPvupkPQEZOhX1aVzPD+huB86DO2VOJdfg7yMRb6UE+fdAQdEN0z6UvYeR2vHbALIDOFE5kmSO+SaSlLGp+miZfzdtOT44yjR6tzpkuyNP3bNPfhuGkBpmf8jLQy4QuQA1XQ6RJvyNjbuiHYmhId6P5Lt+LbAQu3Oqo33kLL7sAZKAKLwQJI83XUXVorT7NxOTBdg1nd/XNYjH04UUoAEG35R60uGXOKXGEADs4",
+  "version": "1.0.33",
+  "date": "2026-11-02",
+  "zip": "releases/appapi-wp-1.0.33.zip",
+  "sha256": "e8a73a772a95bdbdf74e39b582692da00b71104f2f66e5f3d821a302c363a17f",
+  "signature": "eHsEGL9RvdMgjXzTSPOfSkxNsqVkQN3lfZIKIHfpDaeI9TRGy139MO04aCg1fP1CL2cGbWI6kcv4iZqrFtTe8dGWNTgio5oRpCWl1zCpWWRbAXsEU7qsuZsvBqVRJWfM1Lyg2V3x/z9ZVjJZfhptGAQC8YmJ+QZBrsZ2EY0ZOGp5rvuJT6xQZ5kMaFg16kO9tFpoCqDzAMcIyV4byJ9i2or5rvYPe8cI8WJf+Y32UPTo4HBMd2dmbDrjd7j9Fz8aQcR5pFp8PIz6NmfAnl1+xtZAbF6SL46XRNZp3sAbb35z92B8Dl2YceKyS78hGpaCBXk+Yq9klLZiWaIy89ah9Bqf+AXjSfZQkjPwjmgrriCD+0AhLfWvmTJZ+E03+r5U0uQ6ar3pcVd1C//2c6hx+uzZYEVJxcGTedzE/fRw8ifi593h4US/93SRLPAqnX+CwL6QStopgoQ5wNWA2PSYx6PVFgf8FIzIkyeTACspzTnqJuimOyjbEpr7et8hiknw",
   "min_php": "7.4",
-  "notes": "번호만 올림(XE·Rhymix 모듈과 같은 번호)"
+  "notes": "번호만 올림(다른 엔진용 모듈과 같은 번호)"
 }
