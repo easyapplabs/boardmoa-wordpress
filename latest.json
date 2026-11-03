@@ -1,9 +1,9 @@
 {
-  "version": "1.0.33",
-  "date": "2026-11-02",
-  "zip": "releases/appapi-wp-1.0.33.zip",
-  "sha256": "e8a73a772a95bdbdf74e39b582692da00b71104f2f66e5f3d821a302c363a17f",
-  "signature": "eHsEGL9RvdMgjXzTSPOfSkxNsqVkQN3lfZIKIHfpDaeI9TRGy139MO04aCg1fP1CL2cGbWI6kcv4iZqrFtTe8dGWNTgio5oRpCWl1zCpWWRbAXsEU7qsuZsvBqVRJWfM1Lyg2V3x/z9ZVjJZfhptGAQC8YmJ+QZBrsZ2EY0ZOGp5rvuJT6xQZ5kMaFg16kO9tFpoCqDzAMcIyV4byJ9i2or5rvYPe8cI8WJf+Y32UPTo4HBMd2dmbDrjd7j9Fz8aQcR5pFp8PIz6NmfAnl1+xtZAbF6SL46XRNZp3sAbb35z92B8Dl2YceKyS78hGpaCBXk+Yq9klLZiWaIy89ah9Bqf+AXjSfZQkjPwjmgrriCD+0AhLfWvmTJZ+E03+r5U0uQ6ar3pcVd1C//2c6hx+uzZYEVJxcGTedzE/fRw8ifi593h4US/93SRLPAqnX+CwL6QStopgoQ5wNWA2PSYx6PVFgf8FIzIkyeTACspzTnqJuimOyjbEpr7et8hiknw",
+  "version": "1.0.34",
+  "date": "2026-11-03",
+  "zip": "releases/appapi-wp-1.0.34.zip",
+  "sha256": "78d8ff1cf35208ee51e080a5edf19ab6925f35c60c0dc3c464f1bb12214e6377",
+  "signature": "nsBcijrkP2rgQzH9feHvxOhJx7oQ+tUk9pmpm86vf6WZ+ju/k3pARUqfHgyEv/4QGP9pZE70gkAqEd7GlyMbdNoWqQxZBJ+R6KvqtXo71mo4z86CmhvSyBjrJZvanxO2Zj8vmVnJzNlpvkhq4fFeqpvgkQuhlw9RDuzeBLJsoU/9t55fhHl0fz9QlANTbPgrsZAW0gp28r5wbRGvKx79I8IjFjSI9EaLC3qoBJ8TqGgmsN0AoO1gxjviOSieg8PsVj4yCDIkpOhH2NYMCBzOVoPuip3wS/qtZtzz5/4Dj+xSIn9I30VlTWncxKjF6BX0EhvDMjScyaUIQjX5BNOP5fB8wfxkEPz1B8PW8RQk6VIQfi+3BvFtTHh8fMVv5mFRZz1ZY76FykSDJ45LxCxeOlOuPNpWl6xVY3XqiUCyfXW/BYKNTTJP7CoWTiPx/YQjhKGknKnnxphFQGJpSYShqOJZho9NeJvCNPFzdSBxmpOip4wH6mprq+dnb2U/3RGt",
   "min_php": "7.4",
-  "notes": "번호만 올림(다른 엔진용 모듈과 같은 번호)"
+  "notes": "글쓴이 작성글 보기를 웹 글쓴이 보관함처럼 글 전체에서"
 }
