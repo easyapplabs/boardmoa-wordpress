@@ -1,9 +1,9 @@
 {
-  "version": "1.0.34",
+  "version": "1.0.35",
   "date": "2026-11-03",
-  "zip": "releases/appapi-wp-1.0.34.zip",
-  "sha256": "78d8ff1cf35208ee51e080a5edf19ab6925f35c60c0dc3c464f1bb12214e6377",
-  "signature": "nsBcijrkP2rgQzH9feHvxOhJx7oQ+tUk9pmpm86vf6WZ+ju/k3pARUqfHgyEv/4QGP9pZE70gkAqEd7GlyMbdNoWqQxZBJ+R6KvqtXo71mo4z86CmhvSyBjrJZvanxO2Zj8vmVnJzNlpvkhq4fFeqpvgkQuhlw9RDuzeBLJsoU/9t55fhHl0fz9QlANTbPgrsZAW0gp28r5wbRGvKx79I8IjFjSI9EaLC3qoBJ8TqGgmsN0AoO1gxjviOSieg8PsVj4yCDIkpOhH2NYMCBzOVoPuip3wS/qtZtzz5/4Dj+xSIn9I30VlTWncxKjF6BX0EhvDMjScyaUIQjX5BNOP5fB8wfxkEPz1B8PW8RQk6VIQfi+3BvFtTHh8fMVv5mFRZz1ZY76FykSDJ45LxCxeOlOuPNpWl6xVY3XqiUCyfXW/BYKNTTJP7CoWTiPx/YQjhKGknKnnxphFQGJpSYShqOJZho9NeJvCNPFzdSBxmpOip4wH6mprq+dnb2U/3RGt",
+  "zip": "releases/appapi-wp-1.0.35.zip",
+  "sha256": "f963735c829c3f5c0f11df605346e9f54d2496d74741100f3e19e90c237fd97b",
+  "signature": "kW/ndkqh8B0vjoOjgJJPnv/VYLKmMMyWDb9OimxBINj2hBefWuOFjFgz7wRHnr0ZGfg6IIXgsj0ykuu1pDDv3ctWTggpppKdI0kU6lN64fCF3LyTnF9P/Kz8trEEE7m8Wdd645mWYXO1lDMwbk7mcxtHqrXkMiFTbuxmPUAr3IgC93z+7siBiND5UZCubnTMjwO8YKbp0daAN4ShQE68Ugpz3z4WBV8uQbx6ymM5bKo92+Il/mUrJwa7qGM6+LzjTtZFjlcemFlEnDZZPceq3/XTeoG0xHlbjm5C2yrLH3P5EKJ1dxnBYdl5WzgRBlxEAUHukOk61J6/iFopmiBz3ulJqQiw1kp/1X7I+kkyqflUspz5yAucMzXFn6UqK2VP3nDoZhna1auqm2PpHojdLErGi402o6068+wkHumVvOvW0fjnVqz7Wqw3mTt/iHzPMBQ8tCD0bYCQdSTSXKaE0rtB4ZQOUo6fclzHk1/cg61fjQEyMcl9B171WGYzRTC0",
   "min_php": "7.4",
-  "notes": "글쓴이 작성글 보기를 웹 글쓴이 보관함처럼 글 전체에서"
+  "notes": "이름 메뉴를 웹과 같게 (새 앱에서)"
 }
