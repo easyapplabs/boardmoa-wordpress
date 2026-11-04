@@ -1,9 +1,9 @@
 {
-  "version": "1.1.3",
+  "version": "1.1.4",
   "date": "2026-11-05",
-  "zip": "releases/appapi-wp-1.1.3.zip",
-  "sha256": "97bca3fa11a2918e7c074a01139680b78c6c181d4707f954027d7b9daf6186e5",
-  "signature": "KviZjG1pDPHvi2JIb8r1p/U2G7xYiqQ+aMDRWm/w6La9eOXT4k0inrg6QgDDIV+4svlYewAncxCnYJM7AZUz7/q6d/GGXLmkmR4x3JYAvgRrQDUGuTWDurCDOX2wWsBUVlcARAzZBxKOWXLRk7VgGfco2ADad4IXuR5lv8mzbt3q7r0hGKf2mJWki9iTzCpMtPfSW5fs7UF4ftdu/ZftpF3D0zL2y+HVP7J9tUFdOxVTA60I7IHsLQQab31EmaXWm/BsSNV8oN9SGI7fDqgckyxhqoOMj5BRQP4+0UEQmgY2BbRglaO/VRbRgr/ZvFewodQDqbZCFyF57eO/Uqh7nmBVFcg74E0+m2M9MbkeB3uyj6UPGe8baiN1p9SReoMFseDqGR4MTDDkvjAmip7rh4Cx+O1vXA+rQqKU+oLATrgPj/uSW2L9iBpF02uSy4VSxnNAGMANT2MZa0Jl0u+nri82O9yRpPSNi7DsHTIsZ2sli6QOkZ33bkRjfX3w8x9S",
+  "zip": "releases/appapi-wp-1.1.4.zip",
+  "sha256": "dbd790c56e1b789bd7d607f7224192efd16796636420eb5131bddbd116db95b7",
+  "signature": "jbfkGsWrMDnc4WWLOLZklg+CcCwJ81RSCwjXTQphTH1Q1u+oCkOZQFzS4+cpeLKi8yDcPl3Qe/SxoeZrtg+VdCpxT05VursjNEVs/kWLEsJ8DiYeiB3zMJv26QLGDxpEEcIrBgWy5tYwXzbrQY2jJJXKAfhxEaM2oRccs3XsVRRUU+kldm4BjHo6UYMqzNAKtGXDfNr193NO57pNpnqdDRYm6u7uo0kcjrx4JKMEdA000jmcHp3Mld9wSNTw4ttgf/3P5g0nELQ9H3PshLLbwqTy7tGdYuCVj9qIMD2pFbfle2+9/xk2Z1X4XcZcs9TbOTakOl1kwgEfl54HkVxfcl+eQi3AOfq2OvHg1OpykHO6pxrYwAA38sgStg43+erdGBUYIoCrJrwJB9JNu0xZ0HdSslVn242a88L9CT9p+omi9pKzbzFHp61WvZO7ccRfhgKNBrx7zDZuSUSOa9r9RBP5j+4UyMkttyDiJyBubK26adrLwle+e1VpwB0L53Oz",
   "min_php": "7.4",
-  "notes": "앱의 웹 화면 속 쇼핑몰 링크를 웹과 같은 주소로 맞췄습니다."
+  "notes": "앱의 메뉴를 사이트 웹 메뉴와 같은 구성으로 보여 주고, 웹 화면 속 링크 주소를 바로잡았습니다."
 }
