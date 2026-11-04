@@ -1,9 +1,9 @@
 {
-  "version": "1.0.35",
-  "date": "2026-11-03",
-  "zip": "releases/appapi-wp-1.0.35.zip",
-  "sha256": "f963735c829c3f5c0f11df605346e9f54d2496d74741100f3e19e90c237fd97b",
-  "signature": "kW/ndkqh8B0vjoOjgJJPnv/VYLKmMMyWDb9OimxBINj2hBefWuOFjFgz7wRHnr0ZGfg6IIXgsj0ykuu1pDDv3ctWTggpppKdI0kU6lN64fCF3LyTnF9P/Kz8trEEE7m8Wdd645mWYXO1lDMwbk7mcxtHqrXkMiFTbuxmPUAr3IgC93z+7siBiND5UZCubnTMjwO8YKbp0daAN4ShQE68Ugpz3z4WBV8uQbx6ymM5bKo92+Il/mUrJwa7qGM6+LzjTtZFjlcemFlEnDZZPceq3/XTeoG0xHlbjm5C2yrLH3P5EKJ1dxnBYdl5WzgRBlxEAUHukOk61J6/iFopmiBz3ulJqQiw1kp/1X7I+kkyqflUspz5yAucMzXFn6UqK2VP3nDoZhna1auqm2PpHojdLErGi402o6068+wkHumVvOvW0fjnVqz7Wqw3mTt/iHzPMBQ8tCD0bYCQdSTSXKaE0rtB4ZQOUo6fclzHk1/cg61fjQEyMcl9B171WGYzRTC0",
+  "version": "1.1.1",
+  "date": "2026-11-04",
+  "zip": "releases/appapi-wp-1.1.1.zip",
+  "sha256": "1f53fb8f75ae80e9c6bfa33e59a8371e3eac16671e18f96b8eccb1324aad9da4",
+  "signature": "rcXovoazq3Uo/kYF7yJJeh5g8xMkbqy6WpSrkQoxRbiDVmIHsTsKzDdW1UTktEMq+SgBM3AHyKnfykTn3adrGn9GcbajR0sRTu0jjOz1/zMuZ6ukptbzg3Ct5Q7NcpAiqgbkgIvWiSaCH1BQ5A9iUqrlRLupiqA7z27OjZCmZr4YOhV8CVV2rerD9nvTQYQRTp4Hy/UOYxs3NpmDGCOInT7QdvRjHpERo5dOUBdJfTFJgwDkVnFZYOICXSKCoGIaoAMHkjyROC1yigitfa8A81xA0hpVl38SRizF/aFyyMYrOheUjWt6v7gq7EtIKEqtWvvjrzySVksm1wXpVFoqtloQ0aD9EXFEmjHUs7oO0Kh3mkYJOtca/azPvDZD6jkvXo6bqkBGJ+pQcSwvhZZ5jCPx8XiTJdfRll9XJ55lj3r9R4XX4X8prUWWFY5jy13XF4aWpqCoTnpSTAJgIZFpHG8kjnBmg+x8SLCv5kGS0lNJbfQxz2s1r7qAKWPmgY0O",
   "min_php": "7.4",
-  "notes": "이름 메뉴를 웹과 같게 (새 앱에서)"
+  "notes": "앱의 '페이지로 보기'(사이트 화면을 웹과 같은 모양으로 보기)를 지원합니다."
 }
