@@ -1,9 +1,9 @@
 {
-  "version": "1.1.4",
-  "date": "2026-11-05",
-  "zip": "releases/appapi-wp-1.1.4.zip",
-  "sha256": "dbd790c56e1b789bd7d607f7224192efd16796636420eb5131bddbd116db95b7",
-  "signature": "jbfkGsWrMDnc4WWLOLZklg+CcCwJ81RSCwjXTQphTH1Q1u+oCkOZQFzS4+cpeLKi8yDcPl3Qe/SxoeZrtg+VdCpxT05VursjNEVs/kWLEsJ8DiYeiB3zMJv26QLGDxpEEcIrBgWy5tYwXzbrQY2jJJXKAfhxEaM2oRccs3XsVRRUU+kldm4BjHo6UYMqzNAKtGXDfNr193NO57pNpnqdDRYm6u7uo0kcjrx4JKMEdA000jmcHp3Mld9wSNTw4ttgf/3P5g0nELQ9H3PshLLbwqTy7tGdYuCVj9qIMD2pFbfle2+9/xk2Z1X4XcZcs9TbOTakOl1kwgEfl54HkVxfcl+eQi3AOfq2OvHg1OpykHO6pxrYwAA38sgStg43+erdGBUYIoCrJrwJB9JNu0xZ0HdSslVn242a88L9CT9p+omi9pKzbzFHp61WvZO7ccRfhgKNBrx7zDZuSUSOa9r9RBP5j+4UyMkttyDiJyBubK26adrLwle+e1VpwB0L53Oz",
+  "version": "1.1.5",
+  "date": "2026-11-06",
+  "zip": "releases/appapi-wp-1.1.5.zip",
+  "sha256": "d368496a3bafebcf14b017c20603c7c0b51a1b87c5160e8ba3d938154525ea17",
+  "signature": "ibawsiq4pkXMTL8dRRuE3pg6KuxXXaWyCV5zZ/OAIivEwX/igkX+xvXMvVJ2tqchQUJRRBGXqqRXITol1vhaICCG2skYVJvvykFzFJ5E3VD3pJks5PvYNyztd7/DYwiw7DV9PolZlsAfRYhzPf8rniThi4O1+66or/ZB1cEOLXjTc7/RmrZgM8a4uz1sK/iRM6NTZplcLfI+T6LnH6k6kzxG6pX8IYhX5m2DqDLU0pX3R87zkHgtfceLwtgjnlwPDL4xkYsTfPj/i3/ywaLg/k5j/RO17dsJAioyQ8OSShP78dGya/mfZJYCSjmCKE3ML+szdEBbI1hyZPf0int/lhMSaxOYh/OzgNzJ0CMQslIon7MIbjTFzY4hvK+sdB3b+2a72QKxz3YiW/cXqZM8xFLQxl+so09pylH1MqNg+vn9NfT86JOPluBxaLIQIsabCQlo9fgcboMk47FNqhSyxyoAoYhRYWt1GKYLdMcyPPs6IsOnkdjG3UD4piN8DMDs",
   "min_php": "7.4",
-  "notes": "앱의 메뉴를 사이트 웹 메뉴와 같은 구성으로 보여 주고, 웹 화면 속 링크 주소를 바로잡았습니다."
+  "notes": "라이선스 파일(LICENSE, GPL v2 이상)을 넣었습니다."
 }
