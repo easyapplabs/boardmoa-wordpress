@@ -19,7 +19,8 @@
 | bbPress | ✓ (공개·비공개·숨김 포럼) | ✓ 토픽 쓰기·고치기, 관리자 지우기 | ✓ 답글·답글의 답글 | |
 | 망보드 | ✓ (레벨 권한·비밀글·비밀번호, 답글) | ✓ 회원·손님(비밀번호) | ✓ 회원·손님(비밀번호) | 추천·비추천 |
 
-웹에서 하는 것: 회원가입(앱에서 웹 가입 화면이 열립니다), 메일 변경, 프로필 사진, KBoard·망보드 그림 글자 CAPTCHA(구글 reCAPTCHA v2 는 앱에서 푼다), 망보드 사진 첨부, 글의 답글 쓰기.
+회원가입, KBoard·망보드 그림 글자 CAPTCHA·구글 reCAPTCHA v2, 망보드 사진 첨부, 글의 답글 쓰기도 앱에서 합니다.
+웹에서 하는 것: 메일 변경, 프로필 사진.
 워드프레스에 없는 쪽지·친구·알림은 앱에서 보이지 않습니다.
 
 XE 1.11·Rhymix 사이트는 [boardmoa-appapi](https://github.com/easyapplabs/boardmoa-appapi), XE3 사이트는 [boardmoa-appapi-xe3](https://github.com/easyapplabs/boardmoa-appapi-xe3)를 설치합니다.
