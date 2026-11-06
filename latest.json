@@ -1,9 +1,9 @@
 {
-  "version": "1.1.15",
-  "date": "2026-11-06",
-  "zip": "releases/appapi-wp-1.1.15.zip",
-  "sha256": "7df45ee4992b77f8e593ade9ffbe0a7282efac3ff7888a469c116c9faf4a650e",
-  "signature": "YGjm7iTuwYTpU/z7HgyQnRCncXH0k/JpzM594r7k008t8MbgokuZl+Aa4aV0kIpo6Ym2TB46U12UY8F4eZcPl8f5zcDHoXglLj6HnJkB8ky60x3SzILBXwTcdTO7y3XYGcFV8zo3F0rRbiJVZdznNKO47+3EKajzp71UkR2DGzePsSYZBOxbFZu3iWsQztafxHcDWod0103+cJ7QMvsnPGbDA6u8qjuBnILIJE+OkxvYr8fP66y40Mcsqi6IP0WazlHA593g676Iod7hq6si6tuigagLrIfjCnp0uDNtWYvyjSwnLEOrMNfaqaHP5mNZo9lD1GBirk4lqiDbAlNI9bCDuq3z1Bhm//akIhc+wh4RrcgIHh00jNVch48/MOQA44V8JJ2TleoAdwEP/jBXI1RY1zRBGyjdDky6+ad+TMtoo1OO4mhoMo7rDCyOzwBwut7+jQRdhh87hZ3ZELrv/AcQjF22ls/i1LAqIIl7y51WKQx0EgcI/1Y/zYWnRv/J",
+  "version": "1.1.16",
+  "date": "2026-11-07",
+  "zip": "releases/appapi-wp-1.1.16.zip",
+  "sha256": "190815524ceaa237c82c15da0fbc8893bfafcc6c5830fa80940a80d71d81a677",
+  "signature": "Gz7511iiDhZR0NRll/NXmjiTNxbCJskbtsu9kZCiE6VDBChL/putbWvLEBrNdzICxxxWnoPnZx9WyGngdqEFw1kAOcj2NoEg/RHY5vn1Hv2DPM8SgrV3pX5/3iY+bbt3/hjEWd/UWRVRc6pH0wo8cadKAwvvvQiVCuh3ObAD2v6YfFx0qlGh9XgYjji+FT0wTfxdAExJr6ND7FszROVwfXm16YGah6+njEa+9qs8/eynO5MNAlOsBNbKAq0WF/Mc9aP0u1/7dgVZM+V2NiAD5yp0uZcRE+saeNbjXHBHE9R7rU4jUczmH7g4DEtQLxhOWghaZuSvt1ZWVI5hMo//q4+/V5LVxWv646FS2sLAUQ/+OxU4odHdCPVivYsbyCf292xEMXdC2V4gGpD9vpumS7jVD3kB8LlHNLVs6WaphRZE/ov4lF0Y/yZn2oG5EoAaUoxdsjUwcYAfcamvMR3z+heXo6SKBUKaomIkrwhCKN5Ib+jErpsfAHqSzLs8wV3k",
   "min_php": "7.4",
-  "notes": "번호만 올림"
+  "notes": "그누보드5: 메뉴에 없는 게시판은 웹에서 찾아갈 수 있는 것만 '그 밖의 게시판'에(전체 검색 사용 또는 첫 화면 최신글). 다른 엔진은 번호만 올림"
 }
