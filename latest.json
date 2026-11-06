@@ -1,9 +1,9 @@
 {
-  "version": "1.1.18",
+  "version": "1.1.19",
   "date": "2026-11-07",
-  "zip": "releases/appapi-wp-1.1.18.zip",
-  "sha256": "ce51b8a7acd3947e7c45f5a31f8df0dd24bc0f7bdf8fe28924a3efdc258a12b2",
-  "signature": "Cvyf+x9GsRVVXE0XfPW/hh47mkJUEHQZXdO1ycxS31VHECAhlVZ8SEG2oa2N/hy1I5fO0rwHJo/fknizqI1lfAhXSeuShLi4JsUFWsC1UqLATungFz0y6LYF7n7uc9zXM30IHOb8CZQv2cJgzp0rA9ZOREVjfGR4IA0qrRApnXmjBuA52WVJ/BM6/bUA5idqjJA+cnHAMDTCMFzLo0v/62eRvCBhvk5csRvfNn6feYl8FH0bv1n22BPwER2GIJ93LMjYPTFOfumQriOeJY/16PEbkTf8WvzlJ1mSW+ysyM7FZuzPUtsEByXuiSm+6ZEs+cMTDX25tNhuEiEmjFiEENawIxyAmC+w2SNp4wQb5ZilzRCNhxkHObesbVgLC0eHPlRx8jeoj7YAwZhQSGzcLxhRfOU08uUUiyWXWsOPiB6pk2mAhLQPF+LTTBPBFUCZct+wlFzOIRbEH//1ELP5ysZ/qU+jbsJWtAWRcdBj0AYwFwyQnFGj7U+5cBFmo9HE",
+  "zip": "releases/appapi-wp-1.1.19.zip",
+  "sha256": "f3d924b698a9df249ab28af2c5a8ff527ae917a182c042e9d9dbf444c0cd0e2e",
+  "signature": "Ksg/5tnyAQJDTDWN3E2xkRvqgmYVzvWk1sYs8hUK+7FPXgo8dDbNzEGHzWDv8zyFIUaNP/RwGi7yIZek6B+xc9oShojvfV370sxpLfBp+gNn5PzNme1kjje7ZxTETTYoDWFS9uTpidzOlRk60VeavbKI87b6OV2ub1dlhdFnhJ+/filaaTzdqhUTIQSLHZUNYbvfHjbL+CBSahYsIB6n/sR878T25MIdQ+p7ihYuHtWrPFU8qqZR33ggQbbRtaN3QCGzORwh51aQG8ulA90em3sLk6V2AANBviEJjX3N19x6M2TgO7Cq6jc4OMxa3InvllVXePb7+Pw3s1qoE0A3+qe4dQBfcNXGenGBjZWxi3YjAFKZ/7te7a1Ug/YeFEF4ZI2Wr8mMjtZOMiB/Ii+C4fLAJXdDQi406KjI2jo9c/noRAkyNfLDF+ZLNMgCDaHX53WLKZLqtTdgtB0CAS+wLkjc0oTvUKLRXAvcom9YW9kLipFLg9vf8k1aMHkTGijS",
   "min_php": "7.4",
-  "notes": "'그 밖의 게시판' 고르기를 다 만든 목록에서 처리(동작 같음). 다른 엔진은 번호만 올림"
+  "notes": "'그 밖의 게시판' 이름을 관리 화면에서 정함(비우면 앱 언어의 기본 이름), '그 밖의 게시판' 켜고 끄기"
 }
