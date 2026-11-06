@@ -1,9 +1,9 @@
 {
-  "version": "1.1.6",
+  "version": "1.1.7",
   "date": "2026-11-06",
-  "zip": "releases/appapi-wp-1.1.6.zip",
-  "sha256": "a114fd1dcf026be255ade87b1174c57c3804955a1e27080ebdb7e31a1701c938",
-  "signature": "d1psDCRzQeS3qPeDm9TD89tblWphGQUO8ikRc18WPaglqtnJSkDanoVIjGnXK7YLyqDlGVmoGoQL9/5w1IdSSojr5KlVYp0tsZNtIIEBAKMyoA+e6cSixkxC9PV7IYI/M5TKmuNXrBKSB0l+ry9LKFpeAq0YD8BWVswd+oFjLAgS8AqSMV+UF02nnWswgW16xFs77Ml99S72IVX0NfDwMnMatGP+++LrYAh1G1qQx0BVy/JGgcU/JB1Ns0p8oo2FweQBG15tx9ITHQmjcMr+FQCJLGeBIMfPFvpCZ2+7JVzzheuOWKc1yYqCB1/TmJ9hKLW2TEaYj5xyUNCsVyvGd5qmzymvuPyP5jnrTSkVu1NYPHJXjHtK2hzmxUkmbr8qWUgK3CgMX/Hc0kbdocW+/14u7+bAn3SVXKTuzTqfIW2pNFvxr3b8lFgWSF5pOSqputhyhDRFRk2RVgsxbou/emviS7OnD7fBxuy1kSi4+KQ4ubgzq1C8fAKjOHPGmrRs",
+  "zip": "releases/appapi-wp-1.1.7.zip",
+  "sha256": "64bc6b713d10fa1ecc723eb4e0ffcf1f5cf34c6eebba24e2ead661cdc31cb5f5",
+  "signature": "T4EF4wb/fnl1ZDh2z9hoDXh/ABcnpGzR6DmQssIPB1026PwTthvixL668ApV8h74I7sob0mf2ixCIDzJEWiQpCx1DvX4DAVSBl5c8TwlhVFJ//sH1HKYi4S5dQMqd3gvmf/6bcTlQnTZa9ra93GO5CfOEL4QF+3wSZwrkK0IF6YHrUpv8Wh2FegniB8WHsRp7vv3RbQ+0Q58ADNA2+wdr+L4eDVrb5dfqiohBfhGOTcYtl0W9kt9bxGoMoaamIWCx0R5tkwnOhPBOnUE0+31swLcJoDPPUF9bfR/yL5CHIYpF7j5D/Foph+HEGkprsmPQdEXnl5IGe17DjoHOcnRFQ3NRy7lsk7T3ZKgMUr4Dq18xpbLzWA4pdriCiL0fXNA1KIlwDQaXXif00lvn++LIns2h8NSqL1lO35N6qpfkxRmeqi2p2xD7P1d+O+SWuvoslX18NLd2UsY7Ryrtvom31G7K4R/yzt5RUEjVebxpuBMRWQHLozk160qzAdWRsfH",
   "min_php": "7.4",
-  "notes": "번호만 올림(다른 엔진용 연결 모듈과 같은 번호)."
+  "notes": "망보드 비회원 글쓰기에서 자동등록방지를 끈 게시판도 그림 글자를 요구하던 문제 수정"
 }
