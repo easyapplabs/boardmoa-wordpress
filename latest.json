@@ -1,9 +1,9 @@
 {
-  "version": "1.1.14",
+  "version": "1.1.15",
   "date": "2026-11-06",
-  "zip": "releases/appapi-wp-1.1.14.zip",
-  "sha256": "5396d5ccc14d3902b22c1f9e81a95810e0af601d6da3b57eb100a82b463c30a0",
-  "signature": "gb4j+++zXRS16DrLoq9mj6PXJZQVB3gLWk6zOLh5vD54Ba4VOVyGolO8XWyLfkyibM9xykxeWpEQUOCGTkTkb5uafjvHgM0nxff1mn5m2hRV2keF1LIVB2tOnStgDdNs807ezjk36LRs3Wls/dwXlLJ6UaQTKjqTaBqJIn4U7VJtKLUG7+0HLm+XnvfW3Mw76FA23bO2hQLRbZEFzXh9vv3L/xkmtjahOZhKFhUXvjzRMqT99TXEBDO3rp8EvlAaQggiV6cJmrGzncEMjc4bc7kkTyUI58omap68MquZISOOUIBZnrU/vc1Sao/E0ocnjI+TuOCKKgzDASmT4oKHQ2C7+muDGCikwGimPnP3eIs3BNgVXqFNE2e6EV4qBLHo8SQNFrZUWNlAFaGamJ/J7TCeiD8bDMMJ0fy+3elNBk3l5KHBNCBZohxB8BOzRJck4ebyCGz5H+2SB/4xLWXRzMB2MAPVzsFaU5aiVAya3MslMihPmBgPCLB0VDmNhlWA",
+  "zip": "releases/appapi-wp-1.1.15.zip",
+  "sha256": "7df45ee4992b77f8e593ade9ffbe0a7282efac3ff7888a469c116c9faf4a650e",
+  "signature": "YGjm7iTuwYTpU/z7HgyQnRCncXH0k/JpzM594r7k008t8MbgokuZl+Aa4aV0kIpo6Ym2TB46U12UY8F4eZcPl8f5zcDHoXglLj6HnJkB8ky60x3SzILBXwTcdTO7y3XYGcFV8zo3F0rRbiJVZdznNKO47+3EKajzp71UkR2DGzePsSYZBOxbFZu3iWsQztafxHcDWod0103+cJ7QMvsnPGbDA6u8qjuBnILIJE+OkxvYr8fP66y40Mcsqi6IP0WazlHA593g676Iod7hq6si6tuigagLrIfjCnp0uDNtWYvyjSwnLEOrMNfaqaHP5mNZo9lD1GBirk4lqiDbAlNI9bCDuq3z1Bhm//akIhc+wh4RrcgIHh00jNVch48/MOQA44V8JJ2TleoAdwEP/jBXI1RY1zRBGyjdDky6+ad+TMtoo1OO4mhoMo7rDCyOzwBwut7+jQRdhh87hZ3ZELrv/AcQjF22ls/i1LAqIIl7y51WKQx0EgcI/1Y/zYWnRv/J",
   "min_php": "7.4",
-  "notes": "앱이 보내는 X-AppApi-Token 머리말로도 로그인을 받습니다(공유 호스팅·프록시가 Authorization 을 넘기지 않는 서버 대비)"
+  "notes": "번호만 올림"
 }
