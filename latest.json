@@ -1,9 +1,9 @@
 {
-  "version": "1.1.13",
+  "version": "1.1.14",
   "date": "2026-11-06",
-  "zip": "releases/appapi-wp-1.1.13.zip",
-  "sha256": "d2caaa30985752b5b1abbe72a7474a036fb62fe8ef6df760b941cb7b550a7b2a",
-  "signature": "KNqfh6MITxSOtDz9fu7xwqokcb3J5Ucih0dC+rVYYpPkIn1QfZ7BPqBE9k+bd9u+KWojKIoz/+XHYNdoi2KmoJvmZo+HxMud/4PS8CwEVfyab+gCxSShBAQY1aYXR/dDa4QHjjc1VrIb04Gqukx0cMHu6ZGj+BuG8ljNzDEj/tcy2cHxXt/17oRxRow84I/dfjrB5M7gNviYRMIud80d45L58xq5aI8xl1csFwD0AdqKfX2MBJPUcovbxnKMV99jyzC6VVbkV6X7eL/RIRGctghK/ABnboDA5d37NBdLGoQagmeLnfm366p8OpMcUSZj5KRTONPAbwhAQQjgNXfRJkB5mL5odwYkV9XDNUHCiC2UU6c6EdWmzSc9+sW3/bmwsi8pgZCrTW4SZF3Qd1SgWUtRmIFSO69DYDtDrIGskSlefRV6okfkdVczqtms4jmMe28sHhlst8AaLXGpKLzx7LciSeKlwiYuL8VfTrxXyO9oH+iDKZWlNWibvAGbhs4J",
+  "zip": "releases/appapi-wp-1.1.14.zip",
+  "sha256": "5396d5ccc14d3902b22c1f9e81a95810e0af601d6da3b57eb100a82b463c30a0",
+  "signature": "gb4j+++zXRS16DrLoq9mj6PXJZQVB3gLWk6zOLh5vD54Ba4VOVyGolO8XWyLfkyibM9xykxeWpEQUOCGTkTkb5uafjvHgM0nxff1mn5m2hRV2keF1LIVB2tOnStgDdNs807ezjk36LRs3Wls/dwXlLJ6UaQTKjqTaBqJIn4U7VJtKLUG7+0HLm+XnvfW3Mw76FA23bO2hQLRbZEFzXh9vv3L/xkmtjahOZhKFhUXvjzRMqT99TXEBDO3rp8EvlAaQggiV6cJmrGzncEMjc4bc7kkTyUI58omap68MquZISOOUIBZnrU/vc1Sao/E0ocnjI+TuOCKKgzDASmT4oKHQ2C7+muDGCikwGimPnP3eIs3BNgVXqFNE2e6EV4qBLHo8SQNFrZUWNlAFaGamJ/J7TCeiD8bDMMJ0fy+3elNBk3l5KHBNCBZohxB8BOzRJck4ebyCGz5H+2SB/4xLWXRzMB2MAPVzsFaU5aiVAya3MslMihPmBgPCLB0VDmNhlWA",
   "min_php": "7.4",
-  "notes": "번호만 올림(다른 엔진용 모듈과 같은 번호)"
+  "notes": "앱이 보내는 X-AppApi-Token 머리말로도 로그인을 받습니다(공유 호스팅·프록시가 Authorization 을 넘기지 않는 서버 대비)"
 }
