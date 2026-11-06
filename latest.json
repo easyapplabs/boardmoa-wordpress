@@ -1,9 +1,9 @@
 {
-  "version": "1.1.17",
+  "version": "1.1.18",
   "date": "2026-11-07",
-  "zip": "releases/appapi-wp-1.1.17.zip",
-  "sha256": "b43d6daf1cd72ea02add658c1c6e45a4bf7f3e276d64924192a49d861f377b8c",
-  "signature": "tBSP7Fu29NGqAS3RX/61AmXiZL0t36jg7nfojtjg2nzyFyeoyXtTHvpPBzpQXuqYRLLHSUrsSzSV6/7CI7hRtXW8t6ZsSYychxU1S4Ejw22n3acNZabcdN4e2UobEwViYvZU2C+45H2SLb08HTShoyenMB2uD38rO7tMlFhTOGF48sc2Bt9u3Y7rTbzWOoXKGZ2Vm03R/ZMpnKVWljzHDNmiEIDSsseFeLW3nRgReOocenha7waUZgojbBC+beJPRSXFun9b05CGoQhMLp1oz/8qPz55IYLRyf8XuDBR0ppHZZrRPYJGdAzIDkEiWW9UClzoXyT8kVCKGjWDpM5XagArc0AS68E39bPchyRZ7gdUNTPh2Ahb6eEqGy++wJHxPcUo4lD08JmUhwmIOBcex3OWWWZjoGL94bKmJEKpHpcf3lpAhUonjmG0JsU2xuCbIlEWI7+XjZPQL5/gwVosvwPgWcIPv9UqVdcu7YCSL0R7VrlVgfbZ9r9bTbpySsZy",
+  "zip": "releases/appapi-wp-1.1.18.zip",
+  "sha256": "ce51b8a7acd3947e7c45f5a31f8df0dd24bc0f7bdf8fe28924a3efdc258a12b2",
+  "signature": "Cvyf+x9GsRVVXE0XfPW/hh47mkJUEHQZXdO1ycxS31VHECAhlVZ8SEG2oa2N/hy1I5fO0rwHJo/fknizqI1lfAhXSeuShLi4JsUFWsC1UqLATungFz0y6LYF7n7uc9zXM30IHOb8CZQv2cJgzp0rA9ZOREVjfGR4IA0qrRApnXmjBuA52WVJ/BM6/bUA5idqjJA+cnHAMDTCMFzLo0v/62eRvCBhvk5csRvfNn6feYl8FH0bv1n22BPwER2GIJ93LMjYPTFOfumQriOeJY/16PEbkTf8WvzlJ1mSW+ysyM7FZuzPUtsEByXuiSm+6ZEs+cMTDX25tNhuEiEmjFiEENawIxyAmC+w2SNp4wQb5ZilzRCNhxkHObesbVgLC0eHPlRx8jeoj7YAwZhQSGzcLxhRfOU08uUUiyWXWsOPiB6pk2mAhLQPF+LTTBPBFUCZct+wlFzOIRbEH//1ELP5ysZ/qU+jbsJWtAWRcdBj0AYwFwyQnFGj7U+5cBFmo9HE",
   "min_php": "7.4",
-  "notes": "관리 화면에서 '그 밖의 게시판'에 보일 게시판을 하나씩 고를 수 있음(XE/Rhymix·그누보드5·WordPress). 다른 엔진은 번호만 올림"
+  "notes": "'그 밖의 게시판' 고르기를 다 만든 목록에서 처리(동작 같음). 다른 엔진은 번호만 올림"
 }
