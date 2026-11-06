@@ -1,9 +1,9 @@
 {
-  "version": "1.1.10",
+  "version": "1.1.11",
   "date": "2026-11-06",
-  "zip": "releases/appapi-wp-1.1.10.zip",
-  "sha256": "646738c811def05eac445989213c068809463241f4984353dffc5cc5fffdff7c",
-  "signature": "TKDl+B+TaqB6EOVjfH7LWvaL55a07bKgWYOH8Q9CqgjoJH3F4z4XDEeg9FgaASGD+U6YEox1w9nE6EoYd6mpsWhtQ62VrjkSZUqTC0rWdcCnt09wNa1P7ycENScht1tdgUOF3l1H+PgShNvCnZL9+2gmxmrySwSnkc+oI6jZqsI4q4PMOT0yo3Hnb1KKmICh6D6BdR4gG+GSMq35JA3OAKEeEPtiy2GOWfHxI5uLmrZ/CsmtyrsvME2nALS42RdOlNV0LdRv+yt/zD9iMOHXYMm0vplY+NbeWvHK5t2wleM3KHOGRp3gHMVmKRKb+TL3z+A+75op6qePGrrf1+5oJCy/zb893AvfiWKSDXGTtfZDo2Rp+/UmBdRSMDytECVvGGH5d7u0rCXbSXxtRejZWyq2onsGCRiLjMjzeWmo+rUxFz239QZfrd0QqTYirNWnVzknaP9FZnP3IWTRZr89G8U60Iw2LAMKgjBn+m4jvgKFtQ0qtyNlTo7Ejtxx+s1h",
+  "zip": "releases/appapi-wp-1.1.11.zip",
+  "sha256": "d476169c2a0e1fedf9c0010368804780a110352cda41f9e7c6819021126d07bc",
+  "signature": "uggEFhGfz0IK4pS1Mm2Wxv7+D31uGT52s88NmOJDxrdRHvIn8NWfIVAjZqA87c090RtLhQ72FtTW8t0DaoATUOAXcM0+SO2X2lNatDnq+huin9oYBdgmuTzQfDWEPDdZ8bpL49ruP5vHV94wV2kuzYZidOo2bv/Rk2C4yNb0ySdf/m+G2Aous5zfAmJ3TyrM2vIBr3fa8c2mCWquxO5Ihnvle7K8H+BXCsmB2oWwP/Pce6ibFiO3vWlb3RgJt1EwZ4xOPteunL2Qga87x1o75DWyvz8/zCEuhTTHR1rEoysr7XQm/+SFXGNaju9rx1dtOVYO4OmqOHE4l2iUkTNpwmM0Fgx7jCjcrmR3bxHlle4K35GIerE8HGpIGqfRVyN5ALKVnLEWrvFZIpr4IDun1RbtpXLVMC5hmGeyNedagQGmcF2HDEu1YftiCYxvLUUYmVUck1/cH/qtjzd1Zgv7btyqgjC+UmqLi2y99kQPUmZIniyl4CH/SbgScfZr5vyc",
   "min_php": "7.4",
   "notes": "번호만 올림(다른 엔진용 모듈과 같은 번호)"
 }
