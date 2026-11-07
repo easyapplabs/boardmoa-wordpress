@@ -1,9 +1,9 @@
 {
-  "version": "1.1.19",
+  "version": "1.1.20",
   "date": "2026-11-07",
-  "zip": "releases/appapi-wp-1.1.19.zip",
-  "sha256": "f3d924b698a9df249ab28af2c5a8ff527ae917a182c042e9d9dbf444c0cd0e2e",
-  "signature": "Ksg/5tnyAQJDTDWN3E2xkRvqgmYVzvWk1sYs8hUK+7FPXgo8dDbNzEGHzWDv8zyFIUaNP/RwGi7yIZek6B+xc9oShojvfV370sxpLfBp+gNn5PzNme1kjje7ZxTETTYoDWFS9uTpidzOlRk60VeavbKI87b6OV2ub1dlhdFnhJ+/filaaTzdqhUTIQSLHZUNYbvfHjbL+CBSahYsIB6n/sR878T25MIdQ+p7ihYuHtWrPFU8qqZR33ggQbbRtaN3QCGzORwh51aQG8ulA90em3sLk6V2AANBviEJjX3N19x6M2TgO7Cq6jc4OMxa3InvllVXePb7+Pw3s1qoE0A3+qe4dQBfcNXGenGBjZWxi3YjAFKZ/7te7a1Ug/YeFEF4ZI2Wr8mMjtZOMiB/Ii+C4fLAJXdDQi406KjI2jo9c/noRAkyNfLDF+ZLNMgCDaHX53WLKZLqtTdgtB0CAS+wLkjc0oTvUKLRXAvcom9YW9kLipFLg9vf8k1aMHkTGijS",
+  "zip": "releases/appapi-wp-1.1.20.zip",
+  "sha256": "924b465bc800ad3a360ba219bb770b23f38b2ad72e4727b04171e20d496d9bd6",
+  "signature": "jq9w59H0zQz3VppcuvU6pqN/dl+d6q0ecdu3bQrK58Ydjc57CQPaegdD8xTT7CfckUOgeBpsJMAiEovf6TKoRpDDoe9NM5PERc/a8jS1LEgAmwOZwEdHzd1x5XAmmPBwSqO8+CdzcEyhJ4zeKHHl57uJL0EXhNwScUNC65MJgRMZRGms7wagKKUFaxVeVrfmnptLrXloo7OI9RCrETgawbq3OYYBNuFN0AEWb1t5RLhUJMmHLsPFuj/W4OTIwVvCg0amwCpLbePVCtGkpJA6wnVwa6AHN+I0TUHO6c7yX24nz0BUH6QGAbA0fzWF2e+hRCG8ZbQTOnvC6I9hc4RAzbPz2lnAs8XJ242uafhzL+Vd+8M+smnaJqWg4ezudeNJPFbhkn+9iIAA0i9yFAR2aD36V667FSpDM1TO624OlK40fCv2NIb6F4w1lNvJabYX7jVeUg3umVjst3oqvTJ3TEiKU8z6DlWB9Gi+WJVXG38wrDBJCKclu449yJvJGosc",
   "min_php": "7.4",
-  "notes": "'그 밖의 게시판' 이름을 관리 화면에서 정함(비우면 앱 언어의 기본 이름), '그 밖의 게시판' 켜고 끄기"
+  "notes": "좋아요·싫어요 단추를 웹과 같게(KBoard 스킨, wpDiscuz 필터, 망보드 칸), 자기 글 추천"
 }
