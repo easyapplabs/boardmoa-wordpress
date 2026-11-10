@@ -1,9 +1,9 @@
 {
-  "version": "1.1.20",
-  "date": "2026-11-07",
-  "zip": "releases/appapi-wp-1.1.20.zip",
-  "sha256": "924b465bc800ad3a360ba219bb770b23f38b2ad72e4727b04171e20d496d9bd6",
-  "signature": "jq9w59H0zQz3VppcuvU6pqN/dl+d6q0ecdu3bQrK58Ydjc57CQPaegdD8xTT7CfckUOgeBpsJMAiEovf6TKoRpDDoe9NM5PERc/a8jS1LEgAmwOZwEdHzd1x5XAmmPBwSqO8+CdzcEyhJ4zeKHHl57uJL0EXhNwScUNC65MJgRMZRGms7wagKKUFaxVeVrfmnptLrXloo7OI9RCrETgawbq3OYYBNuFN0AEWb1t5RLhUJMmHLsPFuj/W4OTIwVvCg0amwCpLbePVCtGkpJA6wnVwa6AHN+I0TUHO6c7yX24nz0BUH6QGAbA0fzWF2e+hRCG8ZbQTOnvC6I9hc4RAzbPz2lnAs8XJ242uafhzL+Vd+8M+smnaJqWg4ezudeNJPFbhkn+9iIAA0i9yFAR2aD36V667FSpDM1TO624OlK40fCv2NIb6F4w1lNvJabYX7jVeUg3umVjst3oqvTJ3TEiKU8z6DlWB9Gi+WJVXG38wrDBJCKclu449yJvJGosc",
+  "version": "1.1.21",
+  "date": "2026-11-11",
+  "zip": "releases/appapi-wp-1.1.21.zip",
+  "sha256": "d0ce11e89aab9c2305bf2fb33949a0400124e1080de775a179e4ca09e42d14ac",
+  "signature": "L7yJCnEcSY8/P5bPVzvEqg0lqrAtltaTqQb02hwg0l138ZrElxSda6d5ToEC2mlTdDPK1xWTgMdiUNfRO7QpkZLy6HoPMk/aYznOOgVdQ0XC0HaW0aNRH4v8VIbT1m0iUhBlX52thxc6032Zth2s2vgr7DxOYVQPcboJUVTWQivD9acKhkuFJkAywsCsmIKwcKN148vD1tqyIoH5weZ6flSoNQjZp0+uRFYnVdNKwXSTc04qQ8hcCA8pYRAkzqfsD1TtgAU/ILrp5yG+2AwAxsMZ2YQHcP1QW/qoCDPI6F2m6KgPp3Iz/gucDfLHKOgZ/01/+JnP4WKYgCtGL7nyqPED8+ua/S6qu1uHiCvnbg8Lyehcw3ZI0i2jecrf+HRxJEmL+jtW9Lag687mozQXkfs0E7IIv3Z+4dmW3HvhXkp1m/F99zy+gEkfLogzYWcN/SOB9E7RPgGacssC1Jl82bX8QbbaLg1u9gjR83jo4jYLYkmUkNsEmTDkRE2gqwG+",
   "min_php": "7.4",
-  "notes": "좋아요·싫어요 단추를 웹과 같게(KBoard 스킨, wpDiscuz 필터, 망보드 칸), 자기 글 추천"
+  "notes": "번호만 올림(다른 엔진과 같은 번호)"
 }
