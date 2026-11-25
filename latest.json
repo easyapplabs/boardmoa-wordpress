@@ -1,9 +1,9 @@
 {
-  "version": "1.1.21",
-  "date": "2026-11-11",
-  "zip": "releases/appapi-wp-1.1.21.zip",
-  "sha256": "d0ce11e89aab9c2305bf2fb33949a0400124e1080de775a179e4ca09e42d14ac",
-  "signature": "L7yJCnEcSY8/P5bPVzvEqg0lqrAtltaTqQb02hwg0l138ZrElxSda6d5ToEC2mlTdDPK1xWTgMdiUNfRO7QpkZLy6HoPMk/aYznOOgVdQ0XC0HaW0aNRH4v8VIbT1m0iUhBlX52thxc6032Zth2s2vgr7DxOYVQPcboJUVTWQivD9acKhkuFJkAywsCsmIKwcKN148vD1tqyIoH5weZ6flSoNQjZp0+uRFYnVdNKwXSTc04qQ8hcCA8pYRAkzqfsD1TtgAU/ILrp5yG+2AwAxsMZ2YQHcP1QW/qoCDPI6F2m6KgPp3Iz/gucDfLHKOgZ/01/+JnP4WKYgCtGL7nyqPED8+ua/S6qu1uHiCvnbg8Lyehcw3ZI0i2jecrf+HRxJEmL+jtW9Lag687mozQXkfs0E7IIv3Z+4dmW3HvhXkp1m/F99zy+gEkfLogzYWcN/SOB9E7RPgGacssC1Jl82bX8QbbaLg1u9gjR83jo4jYLYkmUkNsEmTDkRE2gqwG+",
+  "version": "1.1.22",
+  "date": "2026-11-26",
+  "zip": "releases/appapi-wp-1.1.22.zip",
+  "sha256": "05c203a03b78af2d0ea2499e61a172c9d46916b9377090bef35729f326ffafe3",
+  "signature": "TmonxtbkONhe7OYQMsr2IqdGKNBoksL8PgPu1DDIDjI5uBiwgWgirGpZh/yPnlrGhLRJkl3lMhxF1kfyeusKrbNUNfwtrvyky83vvC/11JQE1eNOhB9d7su6b3IZzMK/GshfbkmYpBof+ZmrIF2xdlHJf6vw4oHBBdSUDSKapZaW0fL200n6cPjyFZ2std0108K69fKF12Dd4ChYFEUVkEzpTIIcBz7L4foxsax2IyXvUUdi5SgP3Oxtw9mdokCw6u4WpmU/qSAUmWq/WfoHB0bK7YG3z5lx7ndm9aKbqttyEpWZ58NVprcQH7VLNtKFoJBS0ZXofVaLMoObXVTEhInVigk/swRzSmqP1fZhLerugyLlT4+n6hx4zxsuP6mrefN5NN7iuTmjVpXQwpOMOq42FYqMHfPUTfZpQiw3o+p9VelSX3ar69iGg2fQcCFiO5LH13VGW/nPQMyorozTip1HfymLJbZEsFnKvKVPSFP2TAq3+yEslxTfzK+iAvXS",
   "min_php": "7.4",
-  "notes": "번호만 올림(다른 엔진과 같은 번호)"
+  "notes": "PHP 경고·알림을 앱 응답에 찍지 않음(경고를 화면에 표시하는 서버에서 앱 화면에 경고 글이 보이던 것)"
 }
