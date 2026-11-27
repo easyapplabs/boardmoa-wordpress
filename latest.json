@@ -1,9 +1,9 @@
 {
-  "version": "1.1.22",
-  "date": "2026-11-26",
-  "zip": "releases/appapi-wp-1.1.22.zip",
-  "sha256": "05c203a03b78af2d0ea2499e61a172c9d46916b9377090bef35729f326ffafe3",
-  "signature": "TmonxtbkONhe7OYQMsr2IqdGKNBoksL8PgPu1DDIDjI5uBiwgWgirGpZh/yPnlrGhLRJkl3lMhxF1kfyeusKrbNUNfwtrvyky83vvC/11JQE1eNOhB9d7su6b3IZzMK/GshfbkmYpBof+ZmrIF2xdlHJf6vw4oHBBdSUDSKapZaW0fL200n6cPjyFZ2std0108K69fKF12Dd4ChYFEUVkEzpTIIcBz7L4foxsax2IyXvUUdi5SgP3Oxtw9mdokCw6u4WpmU/qSAUmWq/WfoHB0bK7YG3z5lx7ndm9aKbqttyEpWZ58NVprcQH7VLNtKFoJBS0ZXofVaLMoObXVTEhInVigk/swRzSmqP1fZhLerugyLlT4+n6hx4zxsuP6mrefN5NN7iuTmjVpXQwpOMOq42FYqMHfPUTfZpQiw3o+p9VelSX3ar69iGg2fQcCFiO5LH13VGW/nPQMyorozTip1HfymLJbZEsFnKvKVPSFP2TAq3+yEslxTfzK+iAvXS",
+  "version": "1.2.0",
+  "date": "2026-11-27",
+  "zip": "releases/appapi-wp-1.2.0.zip",
+  "sha256": "7b8bf40c39dd39b5e29a4ae870b3e9e2afb41ec92421bbd4e5b9abd0e84acc67",
+  "signature": "vXRqlHikiLdm/1J3EMKxcWrWxk6p7rtJAR7pYfM8xvE1s0F5YvdnnCdQhG4K33lDUuB0LjAiMdZkvS9yUJmA3X5T4f1qLNeo/HZfLeGlUjYckxth+SZcCLb+hqhsHQoBBC9GW+ZWEygKmaX0FNeMxN6HIu+aJPk0yYCVh5hvg9A64gZCCMw+I9mSzls5FlbXQbg0/x3TjF0Q2kHwZ8HF6NtTNbSwymE98hGNjuZOegWVSa964Lf98QMkR9SaqXZ85Sy7i/i/xpeMYYRvE6hh/DtT1afNgzzZ41fq7oIj4o8cgscnnyjsx7tow0fqqcEfRXuKFT/U2PEEgJr7j7XjZsI+iwNXLD4jRXKUYPirGy33zOt2QVDdwJFMZ/guSKm/JNZaWct3gvRPPEbx6HOz3Mj++N4Bvorr14sL4OYL4ldDUOU0EMcfU0ddfpRStANats9dRavjWjvnbTc3gdqU74tw4fbkc/amcIt6Y9t5JpfxlqbfclZ0MAsW18SO5ELw",
   "min_php": "7.4",
-  "notes": "앱 화면 표시 개선"
+  "notes": "정기 업데이트"
 }
